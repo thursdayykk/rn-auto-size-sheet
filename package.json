@@ -1,5 +1,5 @@
 {
-  "name": "@joymo/react-native-auto-size-sheet",
+  "name": "react-native-auto-size-sheet-for-test",
   "version": "1.0.0",
   "main": "./src/index.js",
   "scripts": {
