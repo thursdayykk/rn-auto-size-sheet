@@ -1,7 +1,6 @@
 {
   "name": "@joymo/react-native-auto-size-sheet",
   "version": "1.0.0",
-  "description": "",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,11 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.joymo.tech:xiaoqing.huang/react-native-autosizesheet.git"
+    "url": "git@github.com:thursdayykk/rn-auto-size-sheet.git"
   },
   "keywords": [
     "react-native"
   ],
   "author": "xiaoqing.huang",
-  "license": "ISC"
+  "license": "MIT",
+  "devDependencies": {},
+  "description": ""
 }
